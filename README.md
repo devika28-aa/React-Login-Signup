@@ -73,7 +73,36 @@
    
   ## Screenshots of UI
   <p align="center">
-  <img src="screenshot/login.png" width="350">
-    Login
+  <img src="screenshot/login.png" width="380">
+    Login Page
   </p>
    
+  <p align="center">
+  <img src="screenshot/loginpage_details.png" width="350">
+     Login with Registered Email
+  </p>
+
+  <p align="center">
+  <img src="screenshot/login_success.png" width="350">
+     Post-login Welcome Page
+  </p>
+
+  <p align="center">
+  <img src="screenshot/signuppage_details.png" width="350">
+    Signup Page
+  </p>
+
+  <p align="center">
+  <img src="screenshot/signuppage_success.png" width="350">
+    Account Created
+  </p>
+
+  <p align="center">
+  <img src="screenshot/signup_error.png" width="350">
+    🔴 Error Message Display
+  </p>
+
+  <p align="center">
+  <img src="screenshot/login_error.png" width="350">
+    🔴 Error Message Display
+  </p>
