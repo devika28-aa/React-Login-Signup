@@ -2,17 +2,17 @@
 # Project Description
   The React Login-Signup App is a modern authentication interface built using React and Firebase      Authentication. It includes secure sign-up and login functionality, real-time form validation,      toast-based feedback, and clean UI styling with Tailwind CSS.
 # 🛠️ Technical Details
-  Language Used: JavaScript (React)
+   ✦ Language Used: JavaScript (React)
 
-  Framework: React
+   ✦ Framework: React
   
-  UI Library: Tailwind CSS
+   ✦ UI Library: Tailwind CSS
   
-  Authentication: Firebase Authentication
+   ✦ Authentication: Firebase Authentication
   
-  Validation: React Hook Form, Yup
+   ✦ Validation: React Hook Form, Yup
   
-  Notification: React Hot Toast
+   ✦ Notification: React Hot Toast
 
 # ⚙️ Setup Instructions
 ## Frontend Setup (React)
