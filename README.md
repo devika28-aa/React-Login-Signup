@@ -46,8 +46,6 @@
 
   ✦ Automatically creates a Firestore document for each user after signup.
 
-  ✦ Enables future scalability (e.g., user roles, profile info, preferences).
-
   ✦ On successful login: displays "Welcome! You have successfully logged in."
   
   ✦🛢️ Database (Firebase Firestore)
@@ -74,5 +72,8 @@
   ✦  Animated bouncing dots (animate-bounce) are shown on form submission using a custom span loader.
    
   ## Screenshots of UI
-  
+  <p align="center">
+  <img src="screenshot/login.png" width="350">
+    Login
+  </p>
    
