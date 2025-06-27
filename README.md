@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Login & Signup App
+# Project Description
+  The React Login-Signup App is a modern authentication interface built using React and Firebase      Authentication. It includes secure sign-up and login functionality, real-time form validation,      toast-based feedback, and clean UI styling with Tailwind CSS.
+# 🛠️ Technical Details
+  Language Used: JavaScript (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  Framework: React
+  
+  UI Library: Tailwind CSS
+  
+  Authentication: Firebase Authentication
+  
+  Validation: React Hook Form, Yup
+  
+  Notification: React Hot Toast
 
-## Available Scripts
+# ⚙️ Setup Instructions
+## Frontend Setup (React)
+ ✦ Built with React using functional components and hooks.
+  
+  ✦ Structured into pages and reusable components for clean code and separation of concerns.
+  
+  ✦ Used react-router-dom for client-side routing between login and signup pages.
+  
+  ✦ Integrated React Hook Form and Yup for form handling and validation.
+  
+  ✦ Installed React Hot Toast for showing success and error messages on actions.
+  ✦ To get started:
+      On the signup page:
+     Enter your Name, Email, Password, and Confirm Password.
+      Submit the form to create your account.
+      On the login page:
+       Enter your Email and Password to log into your account.
+  ##  Backend Integration (Firebase + Firestore)
+      Backend Integration (Firebase + Firestore)
+  ✦ Used Firebase Authentication for email-password based sign-up and login.
 
-In the project directory, you can run:
+  ✦ Secure user registration with error handling (e.g., duplicate emails, weak passwords).
 
-### `npm start`
+  ✦ Login validation with friendly Firebase error messages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ✦ Used Firestore Database (NoSQL) for storing additional user profile data.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ✦ Automatically creates a Firestore document for each user after signup.
 
-### `npm test`
+  ✦ Enables future scalability (e.g., user roles, profile info, preferences).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ✦ On successful login: displays "Welcome! You have successfully logged in."
+  🛢️ Database (Firebase Firestore)
+      ✦Integrated with Cloud Firestore to store user data.
+      ✦On successful signup:
+      ✦The user’s name and email are stored in Firestore securely.
+      
+  ## Styling (Tailwind CSS)
+ ✦ Used Tailwind CSS for utility-first responsive styling.
 
-### `npm run build`
+ ✦ Styled login/signup forms with:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ✦ Rounded input fields and buttons using rounded-full.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ✦ Custom button hover transitions and colors.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ✦ Responsive layout using flex utilities like flex, items-center, and justify-center.
+✦ ⏳ Loading Indicators
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   Animated bouncing dots (animate-bounce) are shown on form submission using a custom span         loader.
+   
+  ## Screenshots of UI
+  
+   
