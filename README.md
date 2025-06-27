@@ -103,12 +103,12 @@
   <p align="center">
   <img src="screenshot/signup_error.png" width="350">
   </p>
-  <p align="center"><b>🔴 Error Message Display</b></p>
+  <p align="center"><b>🔴 Error Message Display (Signup)</b></p>
 
   <p align="center">
   <img src="screenshot/login_error.png" width="350">   
   </p>
-  <p align="center"><b>🔴 Error Message Display</b></p>
+  <p align="center"><b>🔴 Error Message Display (Login)</b></p>
 
 
 
