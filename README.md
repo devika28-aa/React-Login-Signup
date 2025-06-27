@@ -1,6 +1,6 @@
 # Login & Signup App
 # Project Description
-  The React Login-Signup App is a modern authentication interface built using React and Firebase      Authentication. It includes secure sign-up and login functionality, real-time form validation,      toast-based feedback, and clean UI styling with Tailwind CSS.
+  The React Login-Signup App is a modern authentication interface built using React and Firebase Authentication. It includes secure sign-up and login functionality, real-time form validation,      toast-based feedback, and clean UI styling with Tailwind CSS.
 # 🛠️ Technical Details
    ✦ Language Used: JavaScript (React)
 
@@ -27,8 +27,11 @@
   ✦ Installed React Hot Toast for showing success and error messages on actions.
   
   ✦ To get started:
-  ✦On the signup page: Enter your Name, Email, Password, and Confirm Password.
+  
+  ✦On the signup page: Enter your Name, Email, Password, and Confirm Password
+  
   ✦Submit the form to create your account.
+  
   ✦On the login page: Enter your Email and Password to log into your account.
   
   ##  Backend Integration (Firebase + Firestore)
@@ -46,10 +49,14 @@
   ✦ Enables future scalability (e.g., user roles, profile info, preferences).
 
   ✦ On successful login: displays "Welcome! You have successfully logged in."
-    ✦🛢️ Database (Firebase Firestore)
-      ✦Integrated with Cloud Firestore to store user data.
-      ✦On successful signup:
-      ✦The user’s name and email are stored in Firestore securely.
+  
+  ✦🛢️ Database (Firebase Firestore)
+    
+  ✦Integrated with Cloud Firestore to store user data.
+      
+  ✦On successful signup:
+     
+  ✦The user’s name and email are stored in Firestore securely.
       
   ## Styling (Tailwind CSS)
  ✦ Used Tailwind CSS for utility-first responsive styling.
@@ -61,9 +68,10 @@
  ✦ Custom button hover transitions and colors.
 
  ✦ Responsive layout using flex utilities like flex, items-center, and justify-center.
-✦ ⏳ Loading Indicators
+ 
+ ✦ ⏳ Loading Indicators
 
-   Animated bouncing dots (animate-bounce) are shown on form submission using a custom span         loader.
+  ✦  Animated bouncing dots (animate-bounce) are shown on form submission using a custom span loader.
    
   ## Screenshots of UI
   
