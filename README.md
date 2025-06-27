@@ -77,38 +77,38 @@
  <p align="center">
   <img src="screenshot/login.png" width="350"/>
   </p>
-<p align="center"><b>Login Page UI</b></p>
+<p align="center"><b>Login Page</b></p>
 
    
   <p align="center">
   <img src="screenshot/loginpage_details.png" width="350">
-     Login with Registered Email
   </p>
+  <p align="center"><b> Login with Registered Email</b></p>
 
   <p align="center">
-  <img src="screenshot/login_success.png" width="350">
-     Post-login Welcome Page
+  <img src="screenshot/login_success.png" width="350">    
   </p>
+  <p align="center"><b>Post-login Welcome Page</b></p>
 
   <p align="center">
-  <img src="screenshot/signuppage_details.png" width="350">
-    Signup Page
+  <img src="screenshot/signuppage_details.png" width="350"> 
   </p>
+  <p align="center"><b> Signup Page</b></p>
 
   <p align="center">
   <img src="screenshot/signup_success.png" width="350">
-    Account Created
   </p>
+  <p align="center"><b> Account Created</b></p>
 
   <p align="center">
   <img src="screenshot/signup_error.png" width="350">
-    🔴 Error Message Display
   </p>
+  <p align="center"><b>🔴 Error Message Display</b></p>
 
   <p align="center">
-  <img src="screenshot/login_error.png" width="350">
-    🔴 Error Message Display
+  <img src="screenshot/login_error.png" width="350">   
   </p>
+  <p align="center"><b>🔴 Error Message Display</b></p>
 
 
 
