@@ -93,7 +93,7 @@
   </p>
 
   <p align="center">
-  <img src="screenshot/signuppage_success.png" width="350">
+  <img src="screenshot/signup_success.png" width="350">
     Account Created
   </p>
 
