@@ -71,7 +71,7 @@
 
   ✦  Animated bouncing dots (animate-bounce) are shown on form submission using a custom span loader.
 
-  ✦ [Click here to see the App](https://dvlogin.netlify.app/)
+  🚀  [Click here to see the App](https://dvlogin.netlify.app/)
    
   ## Screenshots of UI
   <p align="center">
