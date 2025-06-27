@@ -27,11 +27,10 @@
   ✦ Installed React Hot Toast for showing success and error messages on actions.
   
   ✦ To get started:
-    On the signup page:
-    Enter your Name, Email, Password, and Confirm Password.
-    Submit the form to create your account.
-    On the login page:
-    Enter your Email and Password to log into your account.
+  ✦On the signup page: Enter your Name, Email, Password, and Confirm Password.
+  ✦Submit the form to create your account.
+  ✦On the login page: Enter your Email and Password to log into your account.
+  
   ##  Backend Integration (Firebase + Firestore)
     
   ✦ Used Firebase Authentication for email-password based sign-up and login.
@@ -47,7 +46,7 @@
   ✦ Enables future scalability (e.g., user roles, profile info, preferences).
 
   ✦ On successful login: displays "Welcome! You have successfully logged in."
-  🛢️ Database (Firebase Firestore)
+    ✦🛢️ Database (Firebase Firestore)
       ✦Integrated with Cloud Firestore to store user data.
       ✦On successful signup:
       ✦The user’s name and email are stored in Firestore securely.
