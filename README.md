@@ -25,14 +25,15 @@
   ✦ Integrated React Hook Form and Yup for form handling and validation.
   
   ✦ Installed React Hot Toast for showing success and error messages on actions.
+  
   ✦ To get started:
-      On the signup page:
-     Enter your Name, Email, Password, and Confirm Password.
-      Submit the form to create your account.
-      On the login page:
-       Enter your Email and Password to log into your account.
+        * On the signup page:
+        *Enter your Name, Email, Password, and Confirm Password.
+        *Submit the form to create your account.
+        *On the login page:
+        *Enter your Email and Password to log into your account.
   ##  Backend Integration (Firebase + Firestore)
-      Backend Integration (Firebase + Firestore)
+    
   ✦ Used Firebase Authentication for email-password based sign-up and login.
 
   ✦ Secure user registration with error handling (e.g., duplicate emails, weak passwords).
