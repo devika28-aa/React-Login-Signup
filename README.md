@@ -76,7 +76,7 @@
   ## Screenshots of UI
   <p align="center">
   <img src="screenshot/login.png" width="350">
-    Login Page
+    <h1>Login Page</h1>
   </p>
    
   <p align="center">
