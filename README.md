@@ -74,10 +74,11 @@
   🚀  [Click here to see the App](https://dvlogin.netlify.app/)
    
   ## Screenshots of UI
-  <p align="center">
-  <img src="screenshot/login.png" width="350">
-    <h1>Login Page</h1>
+ <p align="center">
+  <img src="screenshot/login.png" width="350"/>
   </p>
+<p align="center"><b>Login Page UI</b></p>
+
    
   <p align="center">
   <img src="screenshot/loginpage_details.png" width="350">
